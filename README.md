@@ -1,6 +1,6 @@
-# 📄 Document question answering template
+# 📄 Enhanced Q&A with RAG
 
-A simple Streamlit app that answers questions about an uploaded document via OpenAI's GPT-3.5.
+Leveraging Pinecone, LangChain, and OpenAI for Generative Question Answering with Retrieval Augmented Generation (RAG)
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://document-question-answering-template.streamlit.app/)
 
